@@ -1,7 +1,6 @@
 # Python-Projects
 
 
-
 <!--
 *******QUICK COMMANDS*******
 py -m venv <project folder name : project_env>
@@ -36,3 +35,46 @@ pip install pandas
     <a href="https://github.com/WackyChomp/Python-Projects/issues">Request Feature</a>
   </p>
 </div>
+
+
+
+### Built With
+
+Tools/frameworks/libraries utilized and encountered within project:
+
+* [![Python][Python]][Python-url]
+* [![jupyter][jupyter]][jupyter-url]
+* [![HTML][HTML]][HTML-url]
+* [![CSS][CSS]][CSS-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[Python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+
+[jupyter]:https://img.shields.io/badge/Jupyter-20232A?style=for-the-badge&logo=jupyter&logoColor=orange
+[jupyter-url]:https://jupyter.org/
+
+[HTML]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://en.wikipedia.org/wiki/HTML
+
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://en.wikipedia.org/wiki/CSS
+
+
+<!-- 
+* [![][]][]
+
+[]:
+[-url]:
+-->
+
